@@ -1,1 +1,1 @@
-# discrete-mathematics-practical-
+# Discrete-mathematics-practical-
